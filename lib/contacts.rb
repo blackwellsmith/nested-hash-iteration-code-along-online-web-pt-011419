@@ -1,4 +1,5 @@
 require 'pry'
+def remove_strawberry
 
   # This is the array we will be passing into the remove_strawberry method
   # contacts = {
