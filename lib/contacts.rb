@@ -1,7 +1,7 @@
 require 'pry'
 def remove_strawberry(contact)
   contact.each do |person, contact_detail_hash|
-    
+    binding.pry 
 end    
 
   # This is the array we will be passing into the remove_strawberry method
