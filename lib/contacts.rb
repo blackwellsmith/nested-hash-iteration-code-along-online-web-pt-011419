@@ -1,6 +1,6 @@
 require 'pry'
-def remove_strawberry(x)
-  x.each do |person, contact_detail_hash|
+def remove_strawberry(contact)
+  contact.each do |person, contact_detail_hash|
     binding.pry
 end    
 
